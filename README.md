@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Bybit**
 
-- 🌱 I’m currently learning ** JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **constantin.cartellieri@web.de**
 
