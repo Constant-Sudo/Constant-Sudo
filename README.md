@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **constantin.cartellieri@web.de**
+- 📫 How to reach me **constantin.cartellieri@tum.de**
 
 - ⚡ Fun fact **I think am funny**
 
