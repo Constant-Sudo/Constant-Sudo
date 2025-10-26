@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=constant-sudo" alt="constant-sudo" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **integrated Vector Databases**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Long Short-Term Memory Models**
 
 - 📫 How to reach me **constantin.cartellieri@web.de**
 
