@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Long Short-Term Memory Models**
 
-- 📫 How to reach me **constantin.cartellieri@web.de**
+- 📫 How to reach me **cartellieri@adcon-tech.de**
 
 - ⚡ Fun fact **I think am funny**
 
